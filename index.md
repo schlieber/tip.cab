@@ -3,7 +3,9 @@
 ## Welcome
 _under construction_
 
-[Twitter](https://twitter.com/schlieber)
+Thinking of this as a links hortener domain. We'll see
+
+[Simon Schlieber on Twitter](https://twitter.com/schlieber)
 
 ## Welcome to GitHub Pages
 
